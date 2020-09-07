@@ -829,3 +829,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.07-05.02.34:393][ 34]AssetCheck: New page: アセット保存:複数のアセット
 [2020.09.07-05.02.34:393][ 34]LogContentValidation: Display: World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap を検証しています
 [2020.09.07-05.02.34:393][ 34]LogContentValidation: Display: MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData を検証しています
+[2020.09.07-05.58.32:367][545]LogEditorViewport: Clicking on Actor (LMB): testActor_C (testActor)
+[2020.09.07-05.58.35:684][636]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.09.07-05.58.37:703][681]LogUObjectHash: Compacting FUObjectHashTables data took  19.10ms
+[2020.09.07-05.58.38:509][681]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/testUE/testUnreal/Saved/FirstPersonExampleMapD0170EB048AAD6C4BBB449A9F118718E.tmp' to '../../../../../Documents/Unreal Projects/testUE/testUnreal/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.09.07-05.58.43:709][681]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/testUE/testUnreal/Saved/FirstPersonExampleMap_BuiltData5D5C143A4DD4DD06EF9FD4BC97027EE6.tmp' to '../../../../../Documents/Unreal Projects/testUE/testUnreal/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.09.07-05.58.43:791][681]AssetCheck: New page: アセット保存:複数のアセット
+[2020.09.07-05.58.43:791][681]LogContentValidation: Display: World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap を検証しています
+[2020.09.07-05.58.43:791][681]LogContentValidation: Display: MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData を検証しています
